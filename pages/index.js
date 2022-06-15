@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Sibu's Site!</a>
         </h1>
 
         <p className={styles.description}>
@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>I don't know.</p>
           </a>
 
           <a
