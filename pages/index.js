@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Greetings friends! I'm Sibusiso Buthelezi 
+          Greetings friends! I&apos;m Sibusiso Buthelezi 
         </h1>
       </main>
     </div>
