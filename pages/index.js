@@ -13,13 +13,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Earth 72! 
+          Greetings friends! I'm Sibusiso Buthelezi 
         </h1>
-        <p>
-          Hi, I'm Sibusiso! <br />
-          This is a bit about me: ... <br />
-          My site is still under construction, feel free to check again later :)
-        </p>
       </main>
     </div>
   )
